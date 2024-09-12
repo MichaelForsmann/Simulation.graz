@@ -10,7 +10,7 @@ Thanks to
 For creating this extensive nice dataset of Graz 
 https://zenodo.org/records/7959116
 
-The model is also based on the Proxies four source/decay rate 
+The model is also based on area of indirect sources as Proxy for source/decay rate 
  @misc{OpenStreetMap,
    author = {{OpenStreetMap contributors}},
    title = {{Planet dump retrieved from https://planet.osm.org }},
